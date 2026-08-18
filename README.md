@@ -23,9 +23,20 @@ The package is designed for admission systems, job portals, student management t
 
 ## Installation
 
+After this package is published to Packagist, install it with:
+
 ```bash
 composer require nexcoreit/bangladesh-universities
 ```
+
+For local development before Packagist publishing, add this package as a Composer path repository from your Laravel application:
+
+```bash
+composer config repositories.bangladesh-universities path ../../university
+composer require nexcoreit/bangladesh-universities:@dev
+```
+
+If your Laravel app is not two directories below the package folder, adjust `../../university` to the correct relative or absolute path.
 
 Publish config and migrations:
 
