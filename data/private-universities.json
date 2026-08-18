@@ -1,0 +1,4238 @@
+{
+    "country": "Bangladesh",
+    "generated_on": "2026-08-18",
+    "last_verified_at": "2026-08-18",
+    "verification_notes": [
+        "This dataset covers public and private universities from current nationwide university listings cross-checked with the UGC university directory.",
+        "Where only a city/locality was available in the source, university_address and campus address use that locality rather than an invented street address.",
+        "Newly approved, renamed, suspended, or not-yet-operational universities can cause totals to differ between UGC registration and operating-university lists."
+    ],
+    "sources": [
+        {
+            "name": "Bangladesh National Portal public university list citing UGC Bangladesh",
+            "url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "name": "UGC Bangladesh private university directory mirror",
+            "url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "name": "Official university websites where present in source records",
+            "url": null
+        }
+    ],
+    "universities": [
+        {
+            "name": "International University of Business Agriculture and Technology",
+            "name_bn": null,
+            "slug": "international-university-of-business-agriculture-and-technology",
+            "short_name": "IUBAT",
+            "type": "private",
+            "category": "general",
+            "established_year": 1992,
+            "website": "https://www.iubat.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "international-university-of-business-agriculture-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "North South University",
+            "name_bn": null,
+            "slug": "north-south-university",
+            "short_name": "NSU",
+            "type": "private",
+            "category": "general",
+            "established_year": 1992,
+            "website": "https://www.northsouth.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "north-south-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Independent University, Bangladesh",
+            "name_bn": null,
+            "slug": "independent-university-bangladesh",
+            "short_name": "IUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 1993,
+            "website": "https://www.iub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "independent-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "American International University-Bangladesh",
+            "name_bn": null,
+            "slug": "american-international-university-bangladesh",
+            "short_name": "AIUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 1994,
+            "website": "https://www.aiub.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "american-international-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Dhaka International University",
+            "name_bn": null,
+            "slug": "dhaka-international-university",
+            "short_name": "DIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 1995,
+            "website": "https://diu.ac",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "dhaka-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "International Islamic University Chittagong",
+            "name_bn": null,
+            "slug": "international-islamic-university-chittagong",
+            "short_name": "IIUC",
+            "type": "private",
+            "category": "general",
+            "established_year": 1995,
+            "website": "https://www.iiuc.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "international-islamic-university-chittagong-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Asian University of Bangladesh",
+            "name_bn": null,
+            "slug": "asian-university-of-bangladesh",
+            "short_name": "AUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 1996,
+            "website": "https://www.aub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "asian-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "East West University",
+            "name_bn": null,
+            "slug": "east-west-university",
+            "short_name": "EWU",
+            "type": "private",
+            "category": "general",
+            "established_year": 1996,
+            "website": "https://www.ewubd.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "east-west-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Gono Bishwabidyalay",
+            "name_bn": null,
+            "slug": "gono-bishwabidyalay",
+            "short_name": "GB",
+            "type": "private",
+            "category": "general",
+            "established_year": 1996,
+            "website": "https://www.gonouniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Savar, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "gono-bishwabidyalay-main-campus",
+                    "campus_type": "main",
+                    "address": "Savar, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Savar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "People's University of Bangladesh",
+            "name_bn": null,
+            "slug": "people-s-university-of-bangladesh",
+            "short_name": "PUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 1996,
+            "website": "https://pub.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "people-s-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Queens University",
+            "name_bn": null,
+            "slug": "queens-university",
+            "short_name": "QU",
+            "type": "private",
+            "category": "general",
+            "established_year": 1996,
+            "website": "https://queensuniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "queens-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Asia Pacific",
+            "name_bn": null,
+            "slug": "university-of-asia-pacific",
+            "short_name": "UAP",
+            "type": "private",
+            "category": "general",
+            "established_year": 1996,
+            "website": "https://www.uap-bd.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-asia-pacific-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Chittagong Independent University",
+            "name_bn": null,
+            "slug": "chittagong-independent-university",
+            "short_name": "CIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://ciu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "chittagong-independent-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh University",
+            "name_bn": null,
+            "slug": "bangladesh-university",
+            "short_name": "BU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://bu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "BGC Trust University Bangladesh",
+            "name_bn": null,
+            "slug": "bgc-trust-university-bangladesh",
+            "short_name": "BGCTUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://bgctub.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bgc-trust-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "BRAC University",
+            "name_bn": null,
+            "slug": "brac-university",
+            "short_name": "BRACU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://www.bracu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "brac-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Manarat International University",
+            "name_bn": null,
+            "slug": "manarat-international-university",
+            "short_name": "MIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://www.manarat.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "manarat-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Premier University, Chittagong",
+            "name_bn": null,
+            "slug": "premier-university-chittagong",
+            "short_name": "PU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://puc.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "premier-university-chittagong-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Southern University Bangladesh",
+            "name_bn": null,
+            "slug": "southern-university-bangladesh",
+            "short_name": "SUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://www.southern.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "southern-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Sylhet International University",
+            "name_bn": null,
+            "slug": "sylhet-international-university",
+            "short_name": "SIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://siu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "sylhet-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Development Alternative",
+            "name_bn": null,
+            "slug": "university-of-development-alternative",
+            "short_name": "UODA",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://uoda.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-development-alternative-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "City University, Bangladesh",
+            "name_bn": null,
+            "slug": "city-university-bangladesh",
+            "short_name": "CUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://cityuniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "city-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Daffodil International University",
+            "name_bn": null,
+            "slug": "daffodil-international-university",
+            "short_name": "DIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://daffodilvarsity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "daffodil-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Green University of Bangladesh",
+            "name_bn": null,
+            "slug": "green-university-of-bangladesh",
+            "short_name": "GUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://green.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "green-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "IBAIS University",
+            "name_bn": null,
+            "slug": "ibais-university",
+            "short_name": "IU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://www.ibaisuniv.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "ibais-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Leading University",
+            "name_bn": null,
+            "slug": "leading-university",
+            "short_name": "LU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://lus.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "leading-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Northern University Bangladesh",
+            "name_bn": null,
+            "slug": "northern-university-bangladesh",
+            "short_name": "NUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://nub.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "northern-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Prime University",
+            "name_bn": null,
+            "slug": "prime-university",
+            "short_name": "PU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://www.primeuniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "prime-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Southeast University",
+            "name_bn": null,
+            "slug": "southeast-university",
+            "short_name": "SEU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://www.seu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "southeast-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Stamford University Bangladesh",
+            "name_bn": null,
+            "slug": "stamford-university-bangladesh",
+            "short_name": "SUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://stamforduniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "stamford-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "State University of Bangladesh",
+            "name_bn": null,
+            "slug": "state-university-of-bangladesh",
+            "short_name": "SUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2002,
+            "website": "https://sub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "state-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Eastern University, Bangladesh",
+            "name_bn": null,
+            "slug": "eastern-university-bangladesh",
+            "short_name": "EU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://www.easternuni.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "eastern-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Metropolitan University",
+            "name_bn": null,
+            "slug": "metropolitan-university",
+            "short_name": "MU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://metrouni.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "metropolitan-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Millennium University",
+            "name_bn": null,
+            "slug": "millennium-university",
+            "short_name": "MU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://www.themillenniumuniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "millennium-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Primeasia University",
+            "name_bn": null,
+            "slug": "primeasia-university",
+            "short_name": "PAU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://primeasia.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "primeasia-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Royal University of Dhaka",
+            "name_bn": null,
+            "slug": "royal-university-of-dhaka",
+            "short_name": "RUD",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://www.royal.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "royal-university-of-dhaka-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "United International University",
+            "name_bn": null,
+            "slug": "united-international-university",
+            "short_name": "UIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://uiu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "united-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Information Technology and Sciences",
+            "name_bn": null,
+            "slug": "university-of-information-technology-and-sciences",
+            "short_name": "UITS",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://uits.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-information-technology-and-sciences-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of South Asia, Bangladesh",
+            "name_bn": null,
+            "slug": "university-of-south-asia-bangladesh",
+            "short_name": "USAB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://southasiauni.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-south-asia-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Presidency University",
+            "name_bn": null,
+            "slug": "presidency-university",
+            "short_name": "PU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://presidency.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "presidency-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Uttara University",
+            "name_bn": null,
+            "slug": "uttara-university",
+            "short_name": "UU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://uttarauniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "uttara-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Victoria University of Bangladesh",
+            "name_bn": null,
+            "slug": "victoria-university-of-bangladesh",
+            "short_name": "VUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://vub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "victoria-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "World University of Bangladesh",
+            "name_bn": null,
+            "slug": "world-university-of-bangladesh",
+            "short_name": "WUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2003,
+            "website": "https://www.wub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "world-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "ASA University Bangladesh",
+            "name_bn": null,
+            "slug": "asa-university-bangladesh",
+            "short_name": "ASAUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2006,
+            "website": "https://www.asaub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "asa-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Islami University",
+            "name_bn": null,
+            "slug": "bangladesh-islami-university",
+            "short_name": "BIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2006,
+            "website": "https://www.biu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-islami-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "East Delta University",
+            "name_bn": null,
+            "slug": "east-delta-university",
+            "short_name": "EDU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2006,
+            "website": "https://www.eastdelta.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "east-delta-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Northern University of Business and Technology Khulna",
+            "name_bn": null,
+            "slug": "northern-university-of-business-and-technology-khulna",
+            "short_name": "NUBTK",
+            "type": "private",
+            "category": "general",
+            "established_year": 2010,
+            "website": "https://nubtkhulna.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "northern-university-of-business-and-technology-khulna-main-campus",
+                    "campus_type": "main",
+                    "address": "Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Britannia University",
+            "name_bn": null,
+            "slug": "britannia-university",
+            "short_name": "BU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2010,
+            "website": "https://britannia.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Cumilla",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "britannia-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Cumilla",
+                    "division": "Chattogram",
+                    "district": "Cumilla",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Feni University",
+            "name_bn": null,
+            "slug": "feni-university",
+            "short_name": "FU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2010,
+            "website": "https://feniuniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Feni",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "feni-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Feni",
+                    "division": "Chattogram",
+                    "district": "Feni",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Khwaja Yunus Ali University",
+            "name_bn": null,
+            "slug": "khwaja-yunus-ali-university",
+            "short_name": "KYAU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2010,
+            "website": "https://www.kyau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sirajganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "khwaja-yunus-ali-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sirajganj",
+                    "division": "Rajshahi",
+                    "district": "Sirajganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "European University of Bangladesh",
+            "name_bn": null,
+            "slug": "european-university-of-bangladesh",
+            "short_name": "EUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://eub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "european-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "First Capital University of Bangladesh",
+            "name_bn": null,
+            "slug": "first-capital-university-of-bangladesh",
+            "short_name": "FCUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://fcub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chuadanga",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "first-capital-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Chuadanga",
+                    "division": "Khulna",
+                    "district": "Chuadanga",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "BGMEA University of Fashion & Technology",
+            "name_bn": null,
+            "slug": "bgmea-university-of-fashion-technology",
+            "short_name": "BUFT",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2012,
+            "website": "https://buft.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Fashion & Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bgmea-university-of-fashion-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Hamdard University Bangladesh",
+            "name_bn": null,
+            "slug": "hamdard-university-bangladesh",
+            "short_name": "HUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://hamdarduniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Munshiganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "hamdard-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Munshiganj",
+                    "division": "Dhaka",
+                    "district": "Munshiganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Ishakha International University",
+            "name_bn": null,
+            "slug": "ishakha-international-university",
+            "short_name": "IIUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://www.ishakha.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Kishoreganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "ishakha-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Kishoreganj",
+                    "division": "Dhaka",
+                    "district": "Kishoreganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "North East University Bangladesh",
+            "name_bn": null,
+            "slug": "north-east-university-bangladesh",
+            "short_name": "NEUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://neub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "north-east-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "North Western University, Bangladesh",
+            "name_bn": null,
+            "slug": "north-western-university-bangladesh",
+            "short_name": "NWU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://nwu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "north-western-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Port City International University",
+            "name_bn": null,
+            "slug": "port-city-international-university",
+            "short_name": "PCIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://www.portcity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "port-city-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Varendra University",
+            "name_bn": null,
+            "slug": "varendra-university",
+            "short_name": "VU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://vu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Rajshahi",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "varendra-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Rajshahi",
+                    "division": "Rajshahi",
+                    "district": "Rajshahi",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Sonargaon University",
+            "name_bn": null,
+            "slug": "sonargaon-university",
+            "short_name": "SU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2012,
+            "website": "https://su.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "sonargaon-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Cox's Bazar International University",
+            "name_bn": null,
+            "slug": "cox-s-bazar-international-university",
+            "short_name": "CBIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://www.cbiu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Cox's Bazar",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "cox-s-bazar-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Cox's Bazar",
+                    "division": "Chattogram",
+                    "district": "Cox's Bazar",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Fareast International University",
+            "name_bn": null,
+            "slug": "fareast-international-university",
+            "short_name": "FIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://www.fiu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "fareast-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "German University Bangladesh",
+            "name_bn": null,
+            "slug": "german-university-bangladesh",
+            "short_name": "GUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://gub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Gazipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "german-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Gazipur",
+                    "division": "Dhaka",
+                    "district": "Gazipur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "North Bengal International University",
+            "name_bn": null,
+            "slug": "north-bengal-international-university",
+            "short_name": "NBIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://www.nbiu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Rajshahi",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "north-bengal-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Rajshahi",
+                    "division": "Rajshahi",
+                    "district": "Rajshahi",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Notre Dame University Bangladesh",
+            "name_bn": null,
+            "slug": "notre-dame-university-bangladesh",
+            "short_name": "NDUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://ndub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "notre-dame-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Ranada Prasad Shaha University",
+            "name_bn": null,
+            "slug": "ranada-prasad-shaha-university",
+            "short_name": "RPSU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://www.rpsu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Narayanganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "ranada-prasad-shaha-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Narayanganj",
+                    "division": "Dhaka",
+                    "district": "Narayanganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Brahmaputra International University",
+            "name_bn": null,
+            "slug": "brahmaputra-international-university",
+            "short_name": "BIU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://www.sfmuniversity.org",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Jamalpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "brahmaputra-international-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Jamalpur",
+                    "division": "Mymensingh",
+                    "district": "Jamalpur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Times University Bangladesh",
+            "name_bn": null,
+            "slug": "times-university-bangladesh",
+            "short_name": "TUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2013,
+            "website": "https://timesuniversitybd.com",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Faridpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "times-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Faridpur",
+                    "division": "Dhaka",
+                    "district": "Faridpur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Canadian University of Bangladesh",
+            "name_bn": null,
+            "slug": "canadian-university-of-bangladesh",
+            "short_name": "CUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2015,
+            "website": "https://cub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "canadian-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Global University Bangladesh",
+            "name_bn": null,
+            "slug": "global-university-bangladesh",
+            "short_name": "GUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2015,
+            "website": "https://globaluniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Barishal",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "global-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Barishal",
+                    "division": "Barishal",
+                    "district": "Barishal",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "NPI University of Bangladesh",
+            "name_bn": null,
+            "slug": "npi-university-of-bangladesh",
+            "short_name": "NPIUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2015,
+            "website": "https://www.npiub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Manikganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "npi-university-of-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Manikganj",
+                    "division": "Dhaka",
+                    "district": "Manikganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Rabindra Maitree University",
+            "name_bn": null,
+            "slug": "rabindra-maitree-university",
+            "short_name": "RMU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2015,
+            "website": "https://rmu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Kushtia",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rabindra-maitree-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Kushtia",
+                    "division": "Khulna",
+                    "district": "Kushtia",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Scholars",
+            "name_bn": null,
+            "slug": "university-of-scholars",
+            "short_name": "IUS",
+            "type": "private",
+            "category": "general",
+            "established_year": 2015,
+            "website": "https://ius.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-scholars-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Creative Technology Chittagong",
+            "name_bn": null,
+            "slug": "university-of-creative-technology-chittagong",
+            "short_name": "UCTC",
+            "type": "private",
+            "category": "general",
+            "established_year": 2015,
+            "website": "https://www.uctc.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-creative-technology-chittagong-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Anwer Khan Modern University",
+            "name_bn": null,
+            "slug": "anwer-khan-modern-university",
+            "short_name": "AKMU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2016,
+            "website": "https://akmu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "anwer-khan-modern-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Global Village",
+            "name_bn": null,
+            "slug": "university-of-global-village",
+            "short_name": "UGV",
+            "type": "private",
+            "category": "general",
+            "established_year": 2016,
+            "website": "https://ugv.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Barishal",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-global-village-main-campus",
+                    "campus_type": "main",
+                    "address": "Barishal",
+                    "division": "Barishal",
+                    "district": "Barishal",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Khulna Khan Bahadur Ahsanullah University",
+            "name_bn": null,
+            "slug": "khulna-khan-bahadur-ahsanullah-university",
+            "short_name": "KKBAU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2018,
+            "website": "https://www.kkbau.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "khulna-khan-bahadur-ahsanullah-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Trust University, Barishal",
+            "name_bn": null,
+            "slug": "trust-university-barishal",
+            "short_name": "TUB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2018,
+            "website": "https://trustuniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Barishal",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "trust-university-barishal-main-campus",
+                    "campus_type": "main",
+                    "address": "Barishal",
+                    "division": "Barishal",
+                    "district": "Barishal",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Brahmanbaria",
+            "name_bn": null,
+            "slug": "university-of-brahmanbaria",
+            "short_name": "UOB",
+            "type": "private",
+            "category": "general",
+            "established_year": 2018,
+            "website": "https://uob.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Brahmanbaria",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-brahmanbaria-main-campus",
+                    "campus_type": "main",
+                    "address": "Brahmanbaria",
+                    "division": "Chattogram",
+                    "district": "Brahmanbaria",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Skill Enrichment and Technology",
+            "name_bn": null,
+            "slug": "university-of-skill-enrichment-and-technology",
+            "short_name": "USET",
+            "type": "private",
+            "category": "general",
+            "established_year": 2018,
+            "website": "https://uset.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Narayanganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-skill-enrichment-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Narayanganj",
+                    "division": "Dhaka",
+                    "district": "Narayanganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "International Standard University",
+            "name_bn": null,
+            "slug": "international-standard-university",
+            "short_name": "ISU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2018,
+            "website": "https://www.isu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "international-standard-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "ZNRF University of Management Sciences",
+            "name_bn": null,
+            "slug": "znrf-university-of-management-sciences",
+            "short_name": "ZUMS",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2018,
+            "website": "https://www.zums.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Management Sciences",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "znrf-university-of-management-sciences-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bandarban University",
+            "name_bn": null,
+            "slug": "bandarban-university",
+            "short_name": "BdU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2019,
+            "website": "https://bubban.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Bandarban",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bandarban-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Bandarban",
+                    "division": "Chattogram",
+                    "district": "Bandarban",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "RTM Al-Kabir Technical University",
+            "name_bn": null,
+            "slug": "rtm-al-kabir-technical-university",
+            "short_name": "RTM-AKTU",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2020,
+            "website": "https://www.rtm-aktu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Technical",
+                "original_location": "Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rtm-al-kabir-technical-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "International Islami University of Science and Technology Bangladesh",
+            "name_bn": null,
+            "slug": "international-islami-university-of-science-and-technology-bangladesh",
+            "short_name": "IIUSTB",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2023,
+            "website": "https://www.iiustb.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "international-islami-university-of-science-and-technology-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Microland University of Science and Technology",
+            "name_bn": null,
+            "slug": "microland-university-of-science-and-technology",
+            "short_name": "MUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2014,
+            "website": "https://www.microlanduniversity.org",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "microland-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Lalon University of Science & Arts",
+            "name_bn": null,
+            "slug": "lalon-university-of-science-arts",
+            "short_name": "LUSA",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2023,
+            "website": "https://www.lusa.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Arts",
+                "original_location": "Kushtia",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "lalon-university-of-science-arts-main-campus",
+                    "campus_type": "main",
+                    "address": "Kushtia",
+                    "division": "Khulna",
+                    "district": "Kushtia",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Grameen University",
+            "name_bn": null,
+            "slug": "grameen-university",
+            "short_name": "GU",
+            "type": "private",
+            "category": "general",
+            "established_year": 2025,
+            "website": "https://grameenu.ac",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "grameen-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Science & Technology Chittagong",
+            "name_bn": null,
+            "slug": "university-of-science-technology-chittagong",
+            "short_name": "USTC",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 1992,
+            "website": "https://ustc.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-science-technology-chittagong-main-campus",
+                    "campus_type": "main",
+                    "address": "Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Ahsanullah University of Science and Technology",
+            "name_bn": null,
+            "slug": "ahsanullah-university-of-science-and-technology",
+            "short_name": "AUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 1995,
+            "website": "https://www.aust.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "ahsanullah-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Pundra University of Science and Technology",
+            "name_bn": null,
+            "slug": "pundra-university-of-science-and-technology",
+            "short_name": "PundraU",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2001,
+            "website": "https://www.pundrouniversity.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Bogura",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "pundra-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Bogura",
+                    "division": "Rajshahi",
+                    "district": "Bogura",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh University of Business and Technology",
+            "name_bn": null,
+            "slug": "bangladesh-university-of-business-and-technology",
+            "short_name": "BUBT",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2003,
+            "website": "https://www.bubt.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-university-of-business-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Atish Dipankar University of Science and Technology",
+            "name_bn": null,
+            "slug": "atish-dipankar-university-of-science-and-technology",
+            "short_name": "ADUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2004,
+            "website": "https://www.adust.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "atish-dipankar-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Z.H. Sikder University of Science & Technology",
+            "name_bn": null,
+            "slug": "z-h-sikder-university-of-science-technology",
+            "short_name": "ZHSUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2012,
+            "website": "https://zhsust.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Shariatpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "z-h-sikder-university-of-science-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Shariatpur",
+                    "division": "Dhaka",
+                    "district": "Shariatpur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Rajshahi Science & Technology University",
+            "name_bn": null,
+            "slug": "rajshahi-science-technology-university",
+            "short_name": "RSTU",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2013,
+            "website": "https://rstu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Natore",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rajshahi-science-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Natore",
+                    "division": "Rajshahi",
+                    "district": "Natore",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Army International University of Science & Technology",
+            "name_bn": null,
+            "slug": "bangladesh-army-international-university-of-science-technology",
+            "short_name": "BAIUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2015,
+            "website": "https://www.baiust.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Cumilla",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-army-international-university-of-science-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Cumilla",
+                    "division": "Chattogram",
+                    "district": "Cumilla",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Army University of Science & Technology, Khulna",
+            "name_bn": null,
+            "slug": "bangladesh-army-university-of-science-technology-khulna",
+            "short_name": "BAUST Khulna",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2021,
+            "website": "https://baustkhulna.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-army-university-of-science-technology-khulna-main-campus",
+                    "campus_type": "main",
+                    "address": "Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Army University of Science and Technology, Saidpur",
+            "name_bn": null,
+            "slug": "bangladesh-army-university-of-science-and-technology-saidpur",
+            "short_name": "BAUST Saidpur",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2015,
+            "website": "https://baust.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Saidpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-army-university-of-science-and-technology-saidpur-main-campus",
+                    "campus_type": "main",
+                    "address": "Saidpur",
+                    "division": "Rangpur",
+                    "district": "Saidpur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "CCN University of Science & Technology",
+            "name_bn": null,
+            "slug": "ccn-university-of-science-technology",
+            "short_name": "CCNUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2015,
+            "website": "https://ccnust.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Cumilla",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "ccn-university-of-science-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Cumilla",
+                    "division": "Chattogram",
+                    "district": "Cumilla",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Central University of Science and Technology",
+            "name_bn": null,
+            "slug": "central-university-of-science-and-technology",
+            "short_name": "CUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2016,
+            "website": "https://cust.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "central-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Dr. Momtaz Begum University of Science and Technology",
+            "name_bn": null,
+            "slug": "dr-momtaz-begum-university-of-science-and-technology",
+            "short_name": "MUST",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2021,
+            "website": "https://must.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Kishoreganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "dr-momtaz-begum-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Kishoreganj",
+                    "division": "Dhaka",
+                    "district": "Kishoreganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Central Women's University",
+            "name_bn": null,
+            "slug": "central-women-s-university",
+            "short_name": "CWU",
+            "type": "private",
+            "category": "other",
+            "established_year": 1993,
+            "website": "https://www.cwu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Women's Studies",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "central-women-s-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Shanto-Mariam University of Creative Technology",
+            "name_bn": null,
+            "slug": "shanto-mariam-university-of-creative-technology",
+            "short_name": "SMUCT",
+            "type": "private",
+            "category": "science_technology",
+            "established_year": 2003,
+            "website": "https://smuct.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Creative Technology",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "shanto-mariam-university-of-creative-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Liberal Arts Bangladesh",
+            "name_bn": null,
+            "slug": "university-of-liberal-arts-bangladesh",
+            "short_name": "ULAB",
+            "type": "private",
+            "category": "other",
+            "established_year": 2004,
+            "website": "https://ulab.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Liberal Arts / Media",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-liberal-arts-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh University of Health Sciences",
+            "name_bn": null,
+            "slug": "bangladesh-university-of-health-sciences",
+            "short_name": "BUHS",
+            "type": "private",
+            "category": "medical",
+            "established_year": 2012,
+            "website": "https://buhs.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Health Sciences",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-university-of-health-sciences-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Exim Bank Agricultural University Bangladesh",
+            "name_bn": null,
+            "slug": "exim-bank-agricultural-university-bangladesh",
+            "short_name": "EBAUB",
+            "type": "private",
+            "category": "agricultural",
+            "established_year": 2013,
+            "website": "https://www.ebaub.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural Science",
+                "original_location": "Chapainawabganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "exim-bank-agricultural-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Chapainawabganj",
+                    "division": "Rajshahi",
+                    "district": "Chapainawabganj",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Army University of Engineering & Technology",
+            "name_bn": null,
+            "slug": "bangladesh-army-university-of-engineering-technology",
+            "short_name": "BAUET",
+            "type": "private",
+            "category": "engineering",
+            "established_year": 2015,
+            "website": "https://bauet.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering and Technology",
+                "original_location": "Natore",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-army-university-of-engineering-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Natore",
+                    "division": "Rajshahi",
+                    "district": "Natore",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Tagore University of Creative Arts",
+            "name_bn": null,
+            "slug": "tagore-university-of-creative-arts",
+            "short_name": "TUCA",
+            "type": "private",
+            "category": "other",
+            "established_year": 2016,
+            "website": "https://www.tuca.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Creative Arts",
+                "original_location": "Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "tagore-university-of-creative-arts-main-campus",
+                    "campus_type": "main",
+                    "address": "Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        }
+    ]
+}

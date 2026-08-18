@@ -1,0 +1,559 @@
+{
+    "country": "Bangladesh",
+    "generated_on": "2026-08-18",
+    "locations": [
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Shahbagh",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Rajshahi",
+            "upazila": null,
+            "area": "Motihar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chattogram",
+            "upazila": null,
+            "area": "Hathazari",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Savar",
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Khulna",
+            "district": "Kushtia",
+            "upazila": null,
+            "area": "Kushtia Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Khulna",
+            "district": "Khulna",
+            "upazila": null,
+            "area": "Gallamari",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Sadarghat",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Cumilla",
+            "upazila": null,
+            "area": "Sadar Dakshin",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Mymensingh",
+            "district": "Mymensingh",
+            "upazila": null,
+            "area": "Trishal",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Mirpur Cantonment",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rangpur",
+            "district": "Rangpur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Barishal",
+            "district": "Barishal",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Sirajganj",
+            "upazila": null,
+            "area": "Shahjadpur",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Mymensingh",
+            "district": "Netrokona",
+            "upazila": null,
+            "area": "Netrokona Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Kishoreganj",
+            "upazila": null,
+            "area": "Kishoreganj Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Khulna",
+            "district": "Meherpur",
+            "upazila": null,
+            "area": "Mujibnagar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Bogura",
+            "upazila": null,
+            "area": "Bogura Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rangpur",
+            "district": "Thakurgaon",
+            "upazila": null,
+            "area": "Thakurgaon Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Sylhet",
+            "district": "Sylhet",
+            "upazila": null,
+            "area": "Kumargaon",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rangpur",
+            "district": "Dinajpur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Tangail",
+            "upazila": null,
+            "area": "Tangail Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Barishal",
+            "district": "Patuakhali",
+            "upazila": null,
+            "area": "Dumki",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Noakhali",
+            "upazila": null,
+            "area": "Noakhali Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Khulna",
+            "district": "Jashore",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Pabna",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Gopalganj",
+            "upazila": null,
+            "area": "Gopalganj Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Rangamati",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Mymensingh",
+            "district": "Jamalpur",
+            "upazila": null,
+            "area": "Melandaha",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chandpur",
+            "upazila": null,
+            "area": "Chandpur Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Sylhet",
+            "district": "Sunamganj",
+            "upazila": null,
+            "area": "Shantiganj",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Lakshmipur",
+            "upazila": null,
+            "area": "Lakshmipur Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Barishal",
+            "district": "Pirojpur",
+            "upazila": null,
+            "area": "Pirojpur Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Khulna",
+            "district": "Satkhira",
+            "upazila": null,
+            "area": "Satkhira Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Narayanganj",
+            "upazila": null,
+            "area": "Narayanganj Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Palashi",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Khulna",
+            "district": "Khulna",
+            "upazila": null,
+            "area": "Fulbari Gate",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chattogram",
+            "upazila": null,
+            "area": "Raozan",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Gazipur",
+            "upazila": null,
+            "area": "Joydebpur",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Mymensingh",
+            "district": "Mymensingh",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Gazipur",
+            "upazila": null,
+            "area": "Salna",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Sher-e-Bangla Nagar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Sylhet",
+            "district": "Sylhet",
+            "upazila": null,
+            "area": "Uttar Baluchar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Khulna",
+            "district": "Khulna",
+            "upazila": null,
+            "area": "Daulatpur",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Sylhet",
+            "district": "Habiganj",
+            "upazila": null,
+            "area": "Habiganj Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rangpur",
+            "district": "Kurigram",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Shariatpur",
+            "upazila": null,
+            "area": "Shariatpur Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chattogram",
+            "upazila": null,
+            "area": "Salimpur",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Rajshahi",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Sylhet",
+            "district": "Sylhet",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Khulna",
+            "district": "Khulna",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chattogram",
+            "upazila": null,
+            "area": "Jhautala",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Tejgaon",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chattogram",
+            "upazila": null,
+            "area": "Sitakunda",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Gazipur",
+            "upazila": null,
+            "area": "Kaliakoir",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Rangpur",
+            "district": "Lalmonirhat",
+            "upazila": null,
+            "area": "Lalmonirhat Sadar",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Gazipur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Mohammadpur",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": "Agargaon",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Dhaka",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Chattogram",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Cumilla",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Feni",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Sirajganj",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Khulna",
+            "district": "Chuadanga",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Munshiganj",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Kishoreganj",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Cox's Bazar",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Narayanganj",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Mymensingh",
+            "district": "Jamalpur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Faridpur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Manikganj",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Khulna",
+            "district": "Kushtia",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Brahmanbaria",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Chattogram",
+            "district": "Bandarban",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Bogura",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Dhaka",
+            "district": "Shariatpur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Natore",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Rangpur",
+            "district": "Saidpur",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "division": "Rajshahi",
+            "district": "Chapainawabganj",
+            "upazila": null,
+            "area": null,
+            "source_url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        }
+    ]
+}

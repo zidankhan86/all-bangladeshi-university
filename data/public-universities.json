@@ -1,0 +1,2444 @@
+{
+    "country": "Bangladesh",
+    "generated_on": "2026-08-18",
+    "last_verified_at": "2026-08-18",
+    "verification_notes": [
+        "This dataset covers public and private universities from current nationwide university listings cross-checked with the UGC university directory.",
+        "Where only a city/locality was available in the source, university_address and campus address use that locality rather than an invented street address.",
+        "Newly approved, renamed, suspended, or not-yet-operational universities can cause totals to differ between UGC registration and operating-university lists."
+    ],
+    "sources": [
+        {
+            "name": "Bangladesh National Portal public university list citing UGC Bangladesh",
+            "url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a"
+        },
+        {
+            "name": "UGC Bangladesh private university directory mirror",
+            "url": "https://www.royal-edu-bd.info/ugc/en/home/university/private/75.html"
+        },
+        {
+            "name": "Official university websites where present in source records",
+            "url": null
+        }
+    ],
+    "universities": [
+        {
+            "name": "University of Dhaka",
+            "name_bn": null,
+            "slug": "university-of-dhaka",
+            "short_name": "DU",
+            "type": "public",
+            "category": "general",
+            "established_year": 1921,
+            "website": "https://www.du.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Shahbagh, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-dhaka-main-campus",
+                    "campus_type": "main",
+                    "address": "Shahbagh, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Shahbagh",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Rajshahi",
+            "name_bn": null,
+            "slug": "university-of-rajshahi",
+            "short_name": "RU",
+            "type": "public",
+            "category": "general",
+            "established_year": 1953,
+            "website": "https://www.ru.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Motihar, Rajshahi",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-rajshahi-main-campus",
+                    "campus_type": "main",
+                    "address": "Motihar, Rajshahi",
+                    "division": "Rajshahi",
+                    "district": "Rajshahi",
+                    "upazila": null,
+                    "area": "Motihar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Chittagong",
+            "name_bn": null,
+            "slug": "university-of-chittagong",
+            "short_name": "CU",
+            "type": "public",
+            "category": "general",
+            "established_year": 1966,
+            "website": "https://web.cu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Hathazari, Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-chittagong-main-campus",
+                    "campus_type": "main",
+                    "address": "Hathazari, Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": "Hathazari",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Jahangirnagar University",
+            "name_bn": null,
+            "slug": "jahangirnagar-university",
+            "short_name": "JU",
+            "type": "public",
+            "category": "general",
+            "established_year": 1970,
+            "website": "https://juniv.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Savar, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "jahangirnagar-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Savar, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Savar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Islamic University, Bangladesh",
+            "name_bn": null,
+            "slug": "islamic-university-bangladesh",
+            "short_name": "IU",
+            "type": "public",
+            "category": "general",
+            "established_year": 1979,
+            "website": "https://iu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Kushtia Sadar, Kushtia",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "islamic-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Kushtia Sadar, Kushtia",
+                    "division": "Khulna",
+                    "district": "Kushtia",
+                    "upazila": null,
+                    "area": "Kushtia Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Khulna University",
+            "name_bn": null,
+            "slug": "khulna-university",
+            "short_name": "KU",
+            "type": "public",
+            "category": "general",
+            "established_year": 1991,
+            "website": "https://ku.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Gallamari, Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "khulna-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Gallamari, Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": "Gallamari",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Jagannath University",
+            "name_bn": null,
+            "slug": "jagannath-university",
+            "short_name": "JnU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2005,
+            "website": "https://jnu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sadarghat, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "jagannath-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sadarghat, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Sadarghat",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Comilla University",
+            "name_bn": null,
+            "slug": "comilla-university",
+            "short_name": "CoU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2006,
+            "website": "https://cou.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Sadar Dakshin, Cumilla",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "comilla-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sadar Dakshin, Cumilla",
+                    "division": "Chattogram",
+                    "district": "Cumilla",
+                    "upazila": null,
+                    "area": "Sadar Dakshin",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Jatiya Kabi Kazi Nazrul Islam University",
+            "name_bn": null,
+            "slug": "jatiya-kabi-kazi-nazrul-islam-university",
+            "short_name": "JKKNIU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2006,
+            "website": "https://jkkniu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Trishal, Mymensingh",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "jatiya-kabi-kazi-nazrul-islam-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Trishal, Mymensingh",
+                    "division": "Mymensingh",
+                    "district": "Mymensingh",
+                    "upazila": null,
+                    "area": "Trishal",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh University of Professionals",
+            "name_bn": null,
+            "slug": "bangladesh-university-of-professionals",
+            "short_name": "BUP",
+            "type": "public",
+            "category": "general",
+            "established_year": 2008,
+            "website": "https://bup.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Mirpur Cantonment, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-university-of-professionals-main-campus",
+                    "campus_type": "main",
+                    "address": "Mirpur Cantonment, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Mirpur Cantonment",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Begum Rokeya University",
+            "name_bn": null,
+            "slug": "begum-rokeya-university",
+            "short_name": "BRUR",
+            "type": "public",
+            "category": "general",
+            "established_year": 2008,
+            "website": "https://brur.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Rangpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "begum-rokeya-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Rangpur",
+                    "division": "Rangpur",
+                    "district": "Rangpur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Barisal",
+            "name_bn": null,
+            "slug": "university-of-barisal",
+            "short_name": "BU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2011,
+            "website": "https://bu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Barishal",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-barisal-main-campus",
+                    "campus_type": "main",
+                    "address": "Barishal",
+                    "division": "Barishal",
+                    "district": "Barishal",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Rabindra University, Bangladesh",
+            "name_bn": null,
+            "slug": "rabindra-university-bangladesh",
+            "short_name": "RUB",
+            "type": "public",
+            "category": "general",
+            "established_year": 2017,
+            "website": "https://www.rub.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Shahjadpur, Sirajganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rabindra-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Shahjadpur, Sirajganj",
+                    "division": "Rajshahi",
+                    "district": "Sirajganj",
+                    "upazila": null,
+                    "area": "Shahjadpur",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Netrokona University",
+            "name_bn": null,
+            "slug": "netrokona-university",
+            "short_name": "NkU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2018,
+            "website": "https://www.shu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Netrokona Sadar, Netrokona",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "netrokona-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Netrokona Sadar, Netrokona",
+                    "division": "Mymensingh",
+                    "district": "Netrokona",
+                    "upazila": null,
+                    "area": "Netrokona Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Kishoreganj University",
+            "name_bn": null,
+            "slug": "kishoreganj-university",
+            "short_name": "KgU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2020,
+            "website": "https://bsmru.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Kishoreganj Sadar, Kishoreganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "kishoreganj-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Kishoreganj Sadar, Kishoreganj",
+                    "division": "Dhaka",
+                    "district": "Kishoreganj",
+                    "upazila": null,
+                    "area": "Kishoreganj Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Meherpur University",
+            "name_bn": null,
+            "slug": "meherpur-university",
+            "short_name": "MU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2022,
+            "website": "https://www.mum.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Mujibnagar, Meherpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "meherpur-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Mujibnagar, Meherpur",
+                    "division": "Khulna",
+                    "district": "Meherpur",
+                    "upazila": null,
+                    "area": "Mujibnagar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Bogura",
+            "name_bn": null,
+            "slug": "university-of-bogura",
+            "short_name": "UB",
+            "type": "public",
+            "category": "general",
+            "established_year": 2001,
+            "website": "https://www.bstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Bogura Sadar, Bogura",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-bogura-main-campus",
+                    "campus_type": "main",
+                    "address": "Bogura Sadar, Bogura",
+                    "division": "Rajshahi",
+                    "district": "Bogura",
+                    "upazila": null,
+                    "area": "Bogura Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Thakurgaon University",
+            "name_bn": null,
+            "slug": "thakurgaon-university",
+            "short_name": "TU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2022,
+            "website": null,
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General",
+                "original_location": "Thakurgaon Sadar, Thakurgaon",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "thakurgaon-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Thakurgaon Sadar, Thakurgaon",
+                    "division": "Rangpur",
+                    "district": "Thakurgaon",
+                    "upazila": null,
+                    "area": "Thakurgaon Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Shahjalal University of Science and Technology",
+            "name_bn": null,
+            "slug": "shahjalal-university-of-science-and-technology",
+            "short_name": "SUST",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 1986,
+            "website": "https://www.sust.edu",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Kumargaon, Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "shahjalal-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Kumargaon, Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": "Kumargaon",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Hajee Mohammad Danesh Science & Technology University",
+            "name_bn": null,
+            "slug": "hajee-mohammad-danesh-science-technology-university",
+            "short_name": "HSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 1999,
+            "website": "https://hstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dinajpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "hajee-mohammad-danesh-science-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dinajpur",
+                    "division": "Rangpur",
+                    "district": "Dinajpur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Mawlana Bhashani Science and Technology University",
+            "name_bn": null,
+            "slug": "mawlana-bhashani-science-and-technology-university",
+            "short_name": "MBSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 1999,
+            "website": "https://mbstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Tangail Sadar, Tangail",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "mawlana-bhashani-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Tangail Sadar, Tangail",
+                    "division": "Dhaka",
+                    "district": "Tangail",
+                    "upazila": null,
+                    "area": "Tangail Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Patuakhali Science and Technology University",
+            "name_bn": null,
+            "slug": "patuakhali-science-and-technology-university",
+            "short_name": "PSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2000,
+            "website": "https://pstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Dumki, Patuakhali",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "patuakhali-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Dumki, Patuakhali",
+                    "division": "Barishal",
+                    "district": "Patuakhali",
+                    "upazila": null,
+                    "area": "Dumki",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Noakhali Science and Technology University",
+            "name_bn": null,
+            "slug": "noakhali-science-and-technology-university",
+            "short_name": "NSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2006,
+            "website": "https://nstu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Noakhali Sadar, Noakhali",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "noakhali-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Noakhali Sadar, Noakhali",
+                    "division": "Chattogram",
+                    "district": "Noakhali",
+                    "upazila": null,
+                    "area": "Noakhali Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Jashore University of Science and Technology",
+            "name_bn": null,
+            "slug": "jashore-university-of-science-and-technology",
+            "short_name": "JUST",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2007,
+            "website": "https://just.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Jashore",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "jashore-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Jashore",
+                    "division": "Khulna",
+                    "district": "Jashore",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Pabna University of Science and Technology",
+            "name_bn": null,
+            "slug": "pabna-university-of-science-and-technology",
+            "short_name": "PUST",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2008,
+            "website": "https://www.pust.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Pabna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "pabna-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Pabna",
+                    "division": "Rajshahi",
+                    "district": "Pabna",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Gopalganj Science and Technology University",
+            "name_bn": null,
+            "slug": "gopalganj-science-and-technology-university",
+            "short_name": "GSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2011,
+            "website": "https://www.bsmrstu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Gopalganj Sadar, Gopalganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "gopalganj-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Gopalganj Sadar, Gopalganj",
+                    "division": "Dhaka",
+                    "district": "Gopalganj",
+                    "upazila": null,
+                    "area": "Gopalganj Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Rangamati Science and Technology University",
+            "name_bn": null,
+            "slug": "rangamati-science-and-technology-university",
+            "short_name": "RmSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2014,
+            "website": "https://rmstu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Rangamati",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rangamati-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Rangamati",
+                    "division": "Chattogram",
+                    "district": "Rangamati",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Jamalpur Science and Technology University",
+            "name_bn": null,
+            "slug": "jamalpur-science-and-technology-university",
+            "short_name": "JSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2017,
+            "website": "https://bsfmstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Melandaha, Jamalpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "jamalpur-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Melandaha, Jamalpur",
+                    "division": "Mymensingh",
+                    "district": "Jamalpur",
+                    "upazila": null,
+                    "area": "Melandaha",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Chandpur Science and Technology University",
+            "name_bn": null,
+            "slug": "chandpur-science-and-technology-university",
+            "short_name": "CSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2020,
+            "website": "https://cstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Chandpur Sadar, Chandpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "chandpur-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Chandpur Sadar, Chandpur",
+                    "division": "Chattogram",
+                    "district": "Chandpur",
+                    "upazila": null,
+                    "area": "Chandpur Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Sunamganj Science and Technology University",
+            "name_bn": null,
+            "slug": "sunamganj-science-and-technology-university",
+            "short_name": "SSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2020,
+            "website": "https://sstu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Shantiganj, Sunamganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "sunamganj-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Shantiganj, Sunamganj",
+                    "division": "Sylhet",
+                    "district": "Sunamganj",
+                    "upazila": null,
+                    "area": "Shantiganj",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Lakshmipur Science and Technology University",
+            "name_bn": null,
+            "slug": "lakshmipur-science-and-technology-university",
+            "short_name": "LSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2020,
+            "website": null,
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Lakshmipur Sadar, Lakshmipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "lakshmipur-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Lakshmipur Sadar, Lakshmipur",
+                    "division": "Chattogram",
+                    "district": "Lakshmipur",
+                    "upazila": null,
+                    "area": "Lakshmipur Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Pirojpur Science and Technology University",
+            "name_bn": null,
+            "slug": "pirojpur-science-and-technology-university",
+            "short_name": "PrSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2022,
+            "website": "https://www.bsmrstup.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Pirojpur Sadar, Pirojpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "pirojpur-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Pirojpur Sadar, Pirojpur",
+                    "division": "Barishal",
+                    "district": "Pirojpur",
+                    "upazila": null,
+                    "area": "Pirojpur Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Satkhira University of Science and Technology",
+            "name_bn": null,
+            "slug": "satkhira-university-of-science-and-technology",
+            "short_name": "SaUST",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2023,
+            "website": null,
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Satkhira Sadar, Satkhira",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "satkhira-university-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Satkhira Sadar, Satkhira",
+                    "division": "Khulna",
+                    "district": "Satkhira",
+                    "upazila": null,
+                    "area": "Satkhira Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Narayanganj Science and Technology University",
+            "name_bn": null,
+            "slug": "narayanganj-science-and-technology-university",
+            "short_name": "NGSTU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2023,
+            "website": null,
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Science and Technology",
+                "original_location": "Narayanganj Sadar, Narayanganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "narayanganj-science-and-technology-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Narayanganj Sadar, Narayanganj",
+                    "division": "Dhaka",
+                    "district": "Narayanganj",
+                    "upazila": null,
+                    "area": "Narayanganj Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh University of Engineering & Technology",
+            "name_bn": null,
+            "slug": "bangladesh-university-of-engineering-technology",
+            "short_name": "BUET",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 1962,
+            "website": "https://www.buet.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering",
+                "original_location": "Palashi, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-university-of-engineering-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Palashi, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Palashi",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Military Institute of Science and Technology",
+            "name_bn": null,
+            "slug": "military-institute-of-science-and-technology",
+            "short_name": "MIST",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 1998,
+            "website": "https://mist.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering",
+                "original_location": "Mirpur Cantonment, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "military-institute-of-science-and-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Mirpur Cantonment, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Mirpur Cantonment",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Rajshahi University of Engineering & Technology",
+            "name_bn": null,
+            "slug": "rajshahi-university-of-engineering-technology",
+            "short_name": "RUET",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 2003,
+            "website": "https://www.ruet.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering",
+                "original_location": "Motihar, Rajshahi",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rajshahi-university-of-engineering-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Motihar, Rajshahi",
+                    "division": "Rajshahi",
+                    "district": "Rajshahi",
+                    "upazila": null,
+                    "area": "Motihar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Khulna University of Engineering & Technology",
+            "name_bn": null,
+            "slug": "khulna-university-of-engineering-technology",
+            "short_name": "KUET",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 2003,
+            "website": "https://kuet.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering",
+                "original_location": "Fulbari Gate, Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "khulna-university-of-engineering-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Fulbari Gate, Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": "Fulbari Gate",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Chittagong University of Engineering & Technology",
+            "name_bn": null,
+            "slug": "chittagong-university-of-engineering-technology",
+            "short_name": "CUET",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 2003,
+            "website": "https://www.cuet.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering",
+                "original_location": "Raozan, Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "chittagong-university-of-engineering-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Raozan, Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": "Raozan",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Dhaka University of Engineering & Technology",
+            "name_bn": null,
+            "slug": "dhaka-university-of-engineering-technology",
+            "short_name": "DUET",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 2003,
+            "website": "https://duet.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Engineering",
+                "original_location": "Joydebpur, Gazipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "dhaka-university-of-engineering-technology-main-campus",
+                    "campus_type": "main",
+                    "address": "Joydebpur, Gazipur",
+                    "division": "Dhaka",
+                    "district": "Gazipur",
+                    "upazila": null,
+                    "area": "Joydebpur",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Agricultural University",
+            "name_bn": null,
+            "slug": "bangladesh-agricultural-university",
+            "short_name": "BAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 1961,
+            "website": "https://bau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Mymensingh",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Mymensingh",
+                    "division": "Mymensingh",
+                    "district": "Mymensingh",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Gazipur Agricultural University",
+            "name_bn": null,
+            "slug": "gazipur-agricultural-university",
+            "short_name": "GAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 1998,
+            "website": "https://bsmrau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Salna, Gazipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "gazipur-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Salna, Gazipur",
+                    "division": "Dhaka",
+                    "district": "Gazipur",
+                    "upazila": null,
+                    "area": "Salna",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Sher-e-Bangla Agricultural University",
+            "name_bn": null,
+            "slug": "sher-e-bangla-agricultural-university",
+            "short_name": "SBAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 2001,
+            "website": "https://sau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Sher-e-Bangla Nagar, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "sher-e-bangla-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sher-e-Bangla Nagar, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Sher-e-Bangla Nagar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Sylhet Agricultural University",
+            "name_bn": null,
+            "slug": "sylhet-agricultural-university",
+            "short_name": "SAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 2006,
+            "website": "https://sau.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Uttar Baluchar, Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "sylhet-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Uttar Baluchar, Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": "Uttar Baluchar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Khulna Agricultural University",
+            "name_bn": null,
+            "slug": "khulna-agricultural-university",
+            "short_name": "KAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 2019,
+            "website": "https://kau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Daulatpur, Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "khulna-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Daulatpur, Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": "Daulatpur",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Habiganj Agricultural University",
+            "name_bn": null,
+            "slug": "habiganj-agricultural-university",
+            "short_name": "HAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 2020,
+            "website": "https://hau.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Habiganj Sadar, Habiganj",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "habiganj-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Habiganj Sadar, Habiganj",
+                    "division": "Sylhet",
+                    "district": "Habiganj",
+                    "upazila": null,
+                    "area": "Habiganj Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Kurigram Agricultural University",
+            "name_bn": null,
+            "slug": "kurigram-agricultural-university",
+            "short_name": "KuriAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 2022,
+            "website": "https://kuriau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Kurigram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "kurigram-agricultural-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Kurigram",
+                    "division": "Rangpur",
+                    "district": "Kurigram",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Shariatpur Agriculture University",
+            "name_bn": null,
+            "slug": "shariatpur-agriculture-university",
+            "short_name": "ShAU",
+            "type": "public",
+            "category": "agricultural",
+            "established_year": 2021,
+            "website": null,
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Agricultural",
+                "original_location": "Shariatpur Sadar, Shariatpur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "shariatpur-agriculture-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Shariatpur Sadar, Shariatpur",
+                    "division": "Dhaka",
+                    "district": "Shariatpur",
+                    "upazila": null,
+                    "area": "Shariatpur Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Medical University",
+            "name_bn": null,
+            "slug": "bangladesh-medical-university",
+            "short_name": "BMU",
+            "type": "public",
+            "category": "medical",
+            "established_year": 1998,
+            "website": "https://bsmmu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Medical",
+                "original_location": "Shahbagh, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-medical-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Shahbagh, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Shahbagh",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Chittagong Medical University",
+            "name_bn": null,
+            "slug": "chittagong-medical-university",
+            "short_name": "CMU",
+            "type": "public",
+            "category": "medical",
+            "established_year": 2016,
+            "website": "https://cmu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Medical",
+                "original_location": "Salimpur, Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "chittagong-medical-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Salimpur, Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": "Salimpur",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Rajshahi Medical University",
+            "name_bn": null,
+            "slug": "rajshahi-medical-university",
+            "short_name": "RMU",
+            "type": "public",
+            "category": "medical",
+            "established_year": 2017,
+            "website": "https://www.rmu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Medical",
+                "original_location": "Rajshahi",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "rajshahi-medical-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Rajshahi",
+                    "division": "Rajshahi",
+                    "district": "Rajshahi",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Sylhet Medical University",
+            "name_bn": null,
+            "slug": "sylhet-medical-university",
+            "short_name": "SMU",
+            "type": "public",
+            "category": "medical",
+            "established_year": 2018,
+            "website": "https://smu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Medical",
+                "original_location": "Sylhet",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "sylhet-medical-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sylhet",
+                    "division": "Sylhet",
+                    "district": "Sylhet",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Khulna Medical University",
+            "name_bn": null,
+            "slug": "khulna-medical-university",
+            "short_name": "KMU",
+            "type": "public",
+            "category": "medical",
+            "established_year": 2020,
+            "website": "https://shmu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Medical",
+                "original_location": "Khulna",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "khulna-medical-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Khulna",
+                    "division": "Khulna",
+                    "district": "Khulna",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Chittagong Veterinary and Animal Sciences University",
+            "name_bn": null,
+            "slug": "chittagong-veterinary-and-animal-sciences-university",
+            "short_name": "CVASU",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2006,
+            "website": "https://cvasu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Veterinary Science",
+                "original_location": "Jhautala, Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "chittagong-veterinary-and-animal-sciences-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Jhautala, Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": "Jhautala",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh University of Textiles",
+            "name_bn": null,
+            "slug": "bangladesh-university-of-textiles",
+            "short_name": "BUTEX",
+            "type": "public",
+            "category": "engineering",
+            "established_year": 2010,
+            "website": "https://butex.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Textile Engineering",
+                "original_location": "Tejgaon, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-university-of-textiles-main-campus",
+                    "campus_type": "main",
+                    "address": "Tejgaon, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Tejgaon",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Maritime University",
+            "name_bn": null,
+            "slug": "bangladesh-maritime-university",
+            "short_name": "BMU",
+            "type": "public",
+            "category": "maritime",
+            "established_year": 2013,
+            "website": "https://bsmrmu.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Maritime",
+                "original_location": "Sitakunda, Chattogram",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-maritime-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Sitakunda, Chattogram",
+                    "division": "Chattogram",
+                    "district": "Chattogram",
+                    "upazila": null,
+                    "area": "Sitakunda",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "University of Frontier Technology, Bangladesh",
+            "name_bn": null,
+            "slug": "university-of-frontier-technology-bangladesh",
+            "short_name": "UFTB",
+            "type": "public",
+            "category": "other",
+            "established_year": 2018,
+            "website": "https://bdu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "ICT",
+                "original_location": "Kaliakoir, Gazipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "university-of-frontier-technology-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Kaliakoir, Gazipur",
+                    "division": "Dhaka",
+                    "district": "Gazipur",
+                    "upazila": null,
+                    "area": "Kaliakoir",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Aviation and Aerospace University Bangladesh",
+            "name_bn": null,
+            "slug": "aviation-and-aerospace-university-bangladesh",
+            "short_name": "AAUB",
+            "type": "public",
+            "category": "science_technology",
+            "established_year": 2019,
+            "website": "https://bsmraau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Aeronautical Science",
+                "original_location": "Lalmonirhat Sadar, Lalmonirhat",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "aviation-and-aerospace-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Lalmonirhat Sadar, Lalmonirhat",
+                    "division": "Rangpur",
+                    "district": "Lalmonirhat",
+                    "upazila": null,
+                    "area": "Lalmonirhat Sadar",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "National University Bangladesh",
+            "name_bn": null,
+            "slug": "national-university-bangladesh",
+            "short_name": "NU",
+            "type": "public",
+            "category": "other",
+            "established_year": 1992,
+            "website": "https://www.nu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Off-campus / Affiliating",
+                "original_location": "Gazipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "national-university-bangladesh-main-campus",
+                    "campus_type": "main",
+                    "address": "Gazipur",
+                    "division": "Dhaka",
+                    "district": "Gazipur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh Open University",
+            "name_bn": null,
+            "slug": "bangladesh-open-university",
+            "short_name": "BOU",
+            "type": "public",
+            "category": "open",
+            "established_year": 1992,
+            "website": "https://bou.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Open / Distance",
+                "original_location": "Gazipur",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "bangladesh-open-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Gazipur",
+                    "division": "Dhaka",
+                    "district": "Gazipur",
+                    "upazila": null,
+                    "area": null,
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Islamic Arabic University",
+            "name_bn": null,
+            "slug": "islamic-arabic-university",
+            "short_name": "IAU",
+            "type": "public",
+            "category": "other",
+            "established_year": 2013,
+            "website": "https://iau.edu.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "Affiliating / Islamic",
+                "original_location": "Mohammadpur, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "islamic-arabic-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Mohammadpur, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Mohammadpur",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        },
+        {
+            "name": "Dhaka Central University",
+            "name_bn": null,
+            "slug": "dhaka-central-university",
+            "short_name": "DCU",
+            "type": "public",
+            "category": "general",
+            "established_year": 2026,
+            "website": "https://dcu.ac.bd",
+            "email": null,
+            "phone": null,
+            "ugc_status": null,
+            "status": "active",
+            "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+            "last_verified_at": "2026-08-18",
+            "metadata": {
+                "original_category": "General / Affiliating",
+                "original_location": "Agargaon, Dhaka",
+                "source_dataset_generated_on": "2026-08-18"
+            },
+            "campuses": [
+                {
+                    "name": "Main campus / university location",
+                    "slug": "dhaka-central-university-main-campus",
+                    "campus_type": "main",
+                    "address": "Agargaon, Dhaka",
+                    "division": "Dhaka",
+                    "district": "Dhaka",
+                    "upazila": null,
+                    "area": "Agargaon",
+                    "postal_code": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "is_main_campus": true,
+                    "source_url": "https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e8a",
+                    "last_verified_at": "2026-08-18"
+                }
+            ]
+        }
+    ]
+}
