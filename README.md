@@ -18,25 +18,45 @@ The package is designed for admission systems, job portals, student management t
 
 ## Requirements
 
-- PHP 8.1 or newer
-- Laravel 10, 11, or 12
+- PHP 8.0 or newer
+- Laravel 9, 10, 11, 12, or 13
 
 ## Installation
 
-After this package is published to Packagist, install it with:
+### Local Installation Before Publishing
+
+This package must be installed as a local Composer path repository until it is published to Packagist. From your Laravel application directory:
 
 ```bash
-composer require nexcoreit/bangladesh-universities
+composer config repositories.bangladesh-universities path /d/laragon/www/university
+composer require nexcoreit/bangladesh-universities:@dev
 ```
 
-For local development before Packagist publishing, add this package as a Composer path repository from your Laravel application:
+For your current folder layout, this relative path should also work from `/d/laragon/www/MyProjects/my-app`:
 
 ```bash
 composer config repositories.bangladesh-universities path ../../university
 composer require nexcoreit/bangladesh-universities:@dev
 ```
 
-If your Laravel app is not two directories below the package folder, adjust `../../university` to the correct relative or absolute path.
+If Composer still tries Packagist, remove the old failed requirement and try again:
+
+```bash
+composer remove nexcoreit/bangladesh-universities
+composer clear-cache
+composer config repositories.bangladesh-universities path /d/laragon/www/university
+composer require nexcoreit/bangladesh-universities:@dev
+```
+
+### Packagist Installation After Publishing
+
+After this package is tagged and published to Packagist, install it with:
+
+```bash
+composer require nexcoreit/bangladesh-universities
+```
+
+Do not use the Packagist command before publishing. Composer will either say the package cannot be found or will timeout while checking Packagist.
 
 Publish config and migrations:
 

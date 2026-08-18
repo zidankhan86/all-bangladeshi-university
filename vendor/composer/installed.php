@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'nexcoreit/bangladesh-universities',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '9362b2d36ee7146b2256cf126c320b01b859d96c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -566,9 +566,9 @@
             'dev_requirement' => false,
         ),
         'nexcoreit/bangladesh-universities' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '9362b2d36ee7146b2256cf126c320b01b859d96c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
